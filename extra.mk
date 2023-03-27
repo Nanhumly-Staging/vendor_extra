@@ -1,3 +1,7 @@
+# CaptivePortalUrl
+PRODUCT_PACKAGES += \
+    CaptivePortalUrlOverlay
+
 # GAPPS
 ifeq ($(Lineage_GAPPS),true)
 TARGET_UNOFFICIAL_BUILD_ID := GAPPS
